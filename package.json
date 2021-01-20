@@ -35,7 +35,7 @@
     "apexcharts": "^3.19.2",
     "axios": "^0.19.2",
     "chart.js": "^2.9.3",
-    "gsap": "^3.3.3",
+    "gsap": "^3.6.0",
     "moment": "^2.26.0",
     "svelte": "^3.20.1",
     "svelte-apexcharts": "^1.0.1"
